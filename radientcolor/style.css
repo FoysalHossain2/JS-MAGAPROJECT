@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px; 
+}
+
+#myBtn1 {
+    background: rgb(28, 28, 50);
+    color: #fff;
+    margin-right: 20px;
+}
